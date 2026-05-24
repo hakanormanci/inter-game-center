@@ -129,6 +129,22 @@
     },
 	{
         "teamId":"1",
+        "opponentId":"4",
+        "date":"2026-03-29T13:30:00",
+        "competition":"LandesLiga Berlin",
+		"round":"16. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"0",
+			"away_score":"2",
+			"home_scorer": [""],
+			"away_scorer": ["Gaston Ignacio Nieto","Leo Heye"]
+			}
+    },
+	{
+        "teamId":"1",
         "opponentId":"11",
         "date":"2026-03-22T14:00:00",
         "competition":"LandesLiga Berlin",
@@ -140,7 +156,363 @@
 			"home_score":"0",
 			"away_score":"3",
 			"home_scorer": [],
-			"away_scorer": ["Luis Driemel","Jascha Robin Woerteler","Nicholas Cartwright Stanley"]
+			"away_scorer": ["Luis Driemel","Jascha Robin Wörteler","Nicholas Cartwright Stanley"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"5",
+        "date":"2026-03-14T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"20. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"7",
+			"away_score":"2",
+			"home_scorer": ["Gaston Ignacio Nieto","Gaston Ignacio Nieto","Yalcin Apaydin","Gaston Ignacio Nieto","Leo Heye","Leo Heye","Teoman Saatci (OG)"],
+			"away_scorer": ["Hussein Ahmo","Hussein Ahmo"],
+			"notes": ""
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"14",
+        "date":"2026-03-08T13:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"19. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"lost",
+			"home_score":"2",
+			"away_score":"1",
+			"home_scorer": ["Süleyman Emre Durmus","Harun Efe Kurnaz"],
+			"away_scorer": ["Leo Heye"],
+			"notes": ""
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"8",
+        "date":"2026-02-28T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"18. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"1",
+			"away_score":"0",
+			"home_scorer": ["Leo Heye"],
+			"away_scorer": [""],
+			"notes": ""
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"20",
+        "date":"2025-12-20T14:00:00",
+        "competition":"1.Herren Cosy Wasch-Landespokal",
+		"round":"Landespokal",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"lost",
+			"home_score":"3",
+			"away_score":"5",
+			"home_scorer": ["Nicholas Cartwright Stanley"],
+			"away_scorer": ["Nikolas Meyer"],
+			"notes": "penalty shoot-out"
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"14",
+        "date":"2025-12-13T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"15. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"draw",
+			"home_score":"2",
+			"away_score":"2",
+			"home_scorer": ["Gaston Ignacio Nieto","Nicholas Cartwright Stanley"],
+			"away_scorer": ["Kubilay Yilmaz","Ömer Yavuz"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"16",
+        "date":"2025-12-06T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"14. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"3",
+			"away_score":"1",
+			"home_scorer": ["Luis Driemel","Santiago Henrich Paya","Santiago Henrich Paya"],
+			"away_scorer": ["Ilya Hadari"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"9",
+        "date":"2025-12-03T19:30:00",
+        "competition":"LandesLiga Berlin",
+		"round":"13. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"1",
+			"away_score":"2",
+			"home_scorer": ["Daniel Achkar"],
+			"away_scorer": ["Moreno Schneider","Gaston Ignacio Nieto"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"2",
+        "date":"2025-11-30T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"12. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"2",
+			"away_score":"8",
+			"home_scorer": ["Colin Gonda","Yoshua Lüdtke"],
+			"away_scorer": ["Gaston Ignacio Nieto","Gaston Ignacio Nieto","Santiago Henrich Paya","Nicholas Cartwright Stanley","Nicholas Cartwright Stanley","Gaston Ignacio Nieto","Milan Daus","Tiago De Sousa Oliveira"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"7",
+        "date":"2025-11-22T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"11. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"draw",
+			"home_score":"2",
+			"away_score":"2",
+			"home_scorer": ["Nicholas Cartwright Stanley","Nicolas Costa Echeverria"],
+			"away_scorer": ["Anton Vossen","Ben Felix Kozak"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"19",
+        "date":"2025-11-15T14:30:00",
+        "competition":"1.Herren Cosy Wasch-Landespokal",
+		"round":"Landespokal",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"4",
+			"away_score":"0",
+			"home_scorer": ["Santiago Henrich Paya","Gaston Ignacio Nieto","Moreno Schneider","Santiago Henrich Paya"],
+			"away_scorer": [""]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"13",
+        "date":"2025-11-08T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"10. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"1",
+			"away_score":"0",
+			"home_scorer": ["Gaston Ignacio Nieto"],
+			"away_scorer": [""]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"8",
+        "date":"2025-11-02T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"9. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"0",
+			"away_score":"3",
+			"home_scorer": [""],
+			"away_scorer": ["Matteo Dogan Pusic","Nicolas Costa Echeverria","Matteo Dogan Pusic"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"3",
+        "date":"2025-10-25T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"8. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"lost",
+			"home_score":"2",
+			"away_score":"3",
+			"home_scorer": ["Santiago Henrich Paya","Santiago Henrich Paya"],
+			"away_scorer": ["Stefano Tedesco","Arthur Stephan","Paul Busche"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"6",
+        "date":"2025-10-19T13:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"7. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"1",
+			"away_score":"9",
+			"home_scorer": ["Lucas Dziadek"],
+			"away_scorer": ["Gaston Ignacio Nieto","Gaston Ignacio Nieto","Santiago Henrich Paya","Milan Daus","Santiago Henrich Paya","Nicholas Cartwright Stanley","Santiago Henrich Paya","Dominic Kranz","Jascha Robin Wörteler"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"18",
+        "date":"2025-10-11T14:45:00",
+        "competition":"1.Herren Cosy Wasch-Landespokal",
+		"round":"Landespokal",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"3",
+			"away_score":"2",
+			"home_scorer": ["Gaston Ignacio Nieto","Santiago Henrich Paya","Gaston Ignacio Nieto"],
+			"away_scorer": ["Mike Ryberg","Lucas Rindermann"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"12",
+        "date":"2025-10-04T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"6. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"6",
+			"away_score":"0",
+			"home_scorer": ["Gaston Ignacio Nieto","Gaston Ignacio Nieto","Nicholas Cartwright Stanley","Santiago Henrich Paya","Gaston Ignacio Nieto"],
+			"away_scorer": [""]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"10",
+        "date":"2025-09-28T13:15:00",
+        "competition":"LandesLiga Berlin",
+		"round":"5. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"2",
+			"away_score":"3",
+			"home_scorer": ["Salih Uzun","Enes Uzun"],
+			"away_scorer": ["Jascha Robin Wörteler","Gaston Ignacio Nieto","Santiago Henrich Paya"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"11",
+        "date":"2025-09-20T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"4. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"4",
+			"away_score":"0",
+			"home_scorer": ["Santiago Henrich Paya","Niklas Schindler","Antonio Boeddinghaus","Matteo Dogan Pusic"],
+			"away_scorer": [""]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"5",
+        "date":"2025-09-13T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"3. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"1",
+			"away_score":"6",
+			"home_scorer": ["Carl Prümke"],
+			"away_scorer": ["Luis Driemel","Maxwell Stanley","Santiago Henrich Paya","Gaston Ignacio Nieto","Gaston Ignacio Nieto","Nikita Ovcharov"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"17",
+        "date":"2025-09-06T13:00:00",
+        "competition":"1.Herren Cosy Wasch-Landespokal",
+		"round":"Landespokal",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"1",
+			"away_score":"8",
+			"home_scorer": ["Jose-Antonio Ondo Mangue"],
+			"away_scorer": ["Antonio Boeddinghaus","Nicholas Cartwright Stanley","Santiago Henrich Paya","Santiago Henrich Paya","Santiago Henrich Paya","Santiago Henrich Paya","Nicholas Cartwright Stanley","Gaston Ignacio Nieto"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"15",
+        "date":"2025-08-31T12:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"2. Spieltag",
+        "home":false,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"0",
+			"away_score":"2",
+			"home_scorer": [],
+			"away_scorer": ["Maxwell Stanley","Nicholas Cartwright Stanley"]
+			}
+    },
+	{
+        "teamId":"1",
+        "opponentId":"4",
+        "date":"2025-08-23T14:00:00",
+        "competition":"LandesLiga Berlin",
+		"round":"1. Spieltag",
+        "home":true,
+		"completed":true,
+		"game_stats": {
+			"result":"win",
+			"home_score":"7",
+			"away_score":"2",
+			"home_scorer": ["Mohamad-Ali Chawraba","Okan Ekmekci"],
+			"away_scorer": ["Santiago Henrich Paya","Gaston Ignacio Nieto","Gaston Ignacio Nieto","Gaston Ignacio Nieto","Santiago Henrich Paya","Gaston Ignacio Nieto","Santiago Henrich Paya"]
 			}
     }
 ]

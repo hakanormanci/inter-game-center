@@ -94,5 +94,29 @@
     "short_name":"berolina-mitte",
     "name": "Berolina Mitte",
     "logo": "/logos/berolina.png"
+  },
+  {
+    "id": "17",
+    "short_name":"kopenicker",
+    "name": "Köpenicker FC",
+    "logo": "/logos/kopenicker.png"
+  },
+  {
+    "id": "18",
+    "short_name":"frohnauer",
+    "name": "Frohnauer SC",
+    "logo": "/logos/frohnauer.png"
+  },
+  {
+    "id": "19",
+    "short_name":"berliner-ak07",
+    "name": "Berliner AK 07",
+    "logo": "/logos/berliner-ak-07.png"
+  },
+  {
+    "id": "20",
+    "short_name":"sparta lichtenberg",
+    "name": "Sparta Lichtenberg",
+    "logo": "/logos/lichtenberg.png"
   }
 ]
