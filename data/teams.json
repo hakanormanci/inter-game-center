@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "short_name":"inter-berlin",
+    "name": "FC Internationale Berlin",
+    "logo": "/logos/inter.png"
+  },
+  {
+    "id": "2",
+    "short_name":"johannisthal",
+    "name": "SF Johannisthal",
+    "logo": "/logos/johannisthal.png"
+  },
+  {
+    "id": "3",
+    "short_name":"bsv-1892",
+    "name": "BSV 1892",
+    "logo": "/logos/bsv1892.png"
+  },
+  {
+    "id": "4",
+    "short_name":"hilal",
+    "name": "Berlin Hilalspor",
+    "logo": "/logos/hilal.png"
+  },
+  {
+    "id": "5",
+    "short_name":"friedenauer",
+    "name": "Friedenauer TSC",
+    "logo": "/logos/friedenauer.png"
+  },
+  {
+    "id": "6",
+    "short_name":"charlottenburg03",
+    "name": "SF Charlottenburg-Wilmersdorf 03",
+    "logo": "/logos/charlottenburg-wilmersdorf.png"
+  },
+  {
+    "id": "7",
+    "short_name":"berliner-amateure",
+    "name": "SC Berliner Amateure",
+    "logo": "/logos/berliner-amateure.png"
+  },
+  {
+    "id": "8",
+    "short_name":"berlinerer-sc2",
+    "name": "Berliner SC II",
+    "logo": "/logos/berlinersc2.png"
+  },
+  {
+    "id": "9",
+    "short_name":"borsigwalde",
+    "name": "SC Borsigwalde",
+    "logo": "/logos/borsigwalde.png"
+  },
+  {
+    "id": "10",
+    "short_name":"fc-schoeneberg",
+    "name": "1.FC Schöneberg",
+    "logo": "/logos/schoeneberg.png"
+  },
+  {
+    "id": "11",
+    "short_name":"bfc-preussen2",
+    "name": "BFC Preussen II",
+    "logo": "/logos/preussen2.png"
+  },
+  {
+    "id": "12",
+    "short_name":"pfeffersport",
+    "name": "Pfeffersport",
+    "logo": "/logos/pfeffersport.png"
+  },
+  {
+    "id": "13",
+    "short_name":"empor-berlin2",
+    "name": "SV Empor Berlin II",
+    "logo": "/logos/empor-berlin2.png"
+  },
+  {
+    "id": "14",
+    "short_name":"huertuerkel",
+    "name": "BSV Hürtürkel",
+    "logo": "/logos/hurturkel.png"
+  },
+  {
+    "id": "15",
+    "short_name":"djk-neukolln",
+    "name": "DJK SW Neukölln 1920 e.V.",
+    "logo": "/logos/neukolln.png"
+  },
+  {
+    "id": "16",
+    "short_name":"berolina-mitte",
+    "name": "Berolina Mitte",
+    "logo": "/logos/berolina.png"
+  }
+]
